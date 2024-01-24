@@ -1,12 +1,12 @@
 This bash script fetches the CPU and Memory utilization. 
 
-**##EXECUTION**
+## EXECUTION
 
 The bash script can be executed by the following command and the logs are generated in metrics.txt file.
 
 bash metrics.sh
 
-**Logic**
+## Logic
 
 The script is devided in two functions-
 

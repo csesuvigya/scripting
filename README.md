@@ -1,6 +1,6 @@
 ## OBJECTIVE
 
-This bash script fetches the CPU and Memory utilization. 
+This bash script fetches the CPU and Memory utilization and stores the output in metrics.txt file.
 
 ## EXECUTION
 

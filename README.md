@@ -1,10 +1,16 @@
+## OBJECTIVE
+
 This bash script fetches the CPU and Memory utilization. 
 
 ## EXECUTION
 
-The bash script can be executed by the following command and the logs are generated in metrics.txt file.
+metrics.sh file contains the bash script to fetch the CPU and Memory utilization with timestamp.
+To execute this script, open your terminal and navigate to the directory where metrics.sh is placed. Execute the below command in your terminal.
 
-bash metrics.sh
+> bash metrics.sh
+
+The logs generated through this script are saved in the metrics.txt file (it will be generated in the same directory).
+
 
 ## Logic
 
